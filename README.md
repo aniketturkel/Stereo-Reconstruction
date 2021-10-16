@@ -1,4 +1,4 @@
-# Stereo-Reconstruction
+# Stereo Reconstruction
 
 Stereo reconstruction is the concept of realization of depth from a pair of stereo images.
 
@@ -15,7 +15,7 @@ We are trying to obtain a usable point cloud from a pair of stereo images.
 
 Currently the project includes disparity map and pointcloud obtained from one dataset.
 
-Note : Code to obtain the disparity map can be found in the "codes" directory.
+Note : Code can be obtained from the "Codes" directory.
 
 ### Parameters and stereo geometry : 
 
@@ -78,8 +78,20 @@ Cx-Cx' is the difference of offsets.
 
 Coding was entirely done in python and the following libraries were used : 
 1. The Numpy libray
-2. The OpenCV library
-3. The plyfile library
+2. The Matplotlib library
+3. The OpenCV library
+4. The plyfile library
+
+### Stereo pair : 
+
+Left image : 
+
+![](https://i.imgur.com/MkOvsCy.jpg)
+
+Right image : 
+
+![](https://i.imgur.com/AC32By9.jpg)
+
 
 ### Results : 
 
