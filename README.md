@@ -77,7 +77,7 @@ Cx-Cx' is the difference of offsets.
 ### Tools and softwares needed to perform the project : 
 
 Coding was entirely done in python and the following libraries were used : 
-1. The Numpy libray
+1. The Numpy library
 2. The Matplotlib library
 3. The OpenCV library
 4. The plyfile library
